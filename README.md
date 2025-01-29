@@ -1,4 +1,15 @@
+<h1 align="center">Hi there, I'm Denis 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">AI Researcher, IT Management student</h3>
+
 ## Hi there 👋
+
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **denisalpino/denisalpino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
