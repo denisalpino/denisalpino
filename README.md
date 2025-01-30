@@ -8,6 +8,7 @@
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 <!-- BLOG-POST-LIST:START -->
+- [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_campaign=829336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
 
