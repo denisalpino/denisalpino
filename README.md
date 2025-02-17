@@ -12,6 +12,7 @@ Skills: Python / Machine Learning / Deep Learning / MLOps
 
 There is my last publications on Habr:
 <!-- BLOG-POST-LIST:START -->
+- [Метод максимального правдоподобия и информация Фишера: от А до Я](https://habr.com/ru/articles/830326/?utm_campaign=830326&utm_source=habrahabr&utm_medium=rss)
 - [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_campaign=829336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
