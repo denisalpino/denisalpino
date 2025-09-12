@@ -63,7 +63,7 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 - Achieved 56% accuracy and 5% excess returns on 5-minute BTC timeframe
 
 #### **FinABYSS** - Next-gen Comprehensive Financial Analytics System (In Progress)
-[![Project](https://img.shields.io/badge/Project-Link-green)](https://clck.ru/3NwYQ/)
+[![Project](https://img.shields.io/badge/Project-Link-green)](https://clck.ru/3NwYQJ/)
 - News aggregation system achived SoTA financial clustering with 0.4 DBCV Index
 - MoE architecture for publication sentiment analysis with multimodal asset price forecasting
 - High-throughput parsing and processing of 1.5M+ financial news articles
