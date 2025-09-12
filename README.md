@@ -1,14 +1,90 @@
-<h1 align="center">Hi there, I'm Denis
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">AI Researcher, IT Management student</h3>
+<div align="center">
+  <h1>
+    Hi there, I'm Denis Tomin 
+    <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
+  </h1>
+  <p>AI Researcher | Quantitative Researcher | NLP & LLM Engineer</p>
+  
+  <p>
+    <a href="mailto:denis.tomin.alpino@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://t.me/denisalpino">
+      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+    </a>
+    <a href="http://linkedin.com/in/denis-tomin-a92454254/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://habr.com/ru/users/denisalpino/">
+      <img src="https://img.shields.io/badge/Habr-65A3BE?style=for-the-badge&logo=habr&logoColor=white" alt="Habr">
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=denisalpino&style=for-the-badge&color=blue" alt="Profile views"/>
+  </p>
+</div>
 
-I'm a 4th year student at GSOM SPbU, specializing in Information Management. I have long been interested in programming, business and math, and especially in the intersection of these 3 spheres, which for me has become machine learning. Now I'm studying hard to get into Master's and PhD programs, as well as get a job as an AI Researcher.
+---
 
-Skills: Python / Machine Learning / Deep Learning / MLOps
+Machine/Deep learning specialist focused on financial applications and NLP. Passionate about creating intelligent systems that combine cutting-edge ML methods with practical business value. Currently, I'm fascinated by the applicability of interpretability methods (XAI) and the transfer of NLP best practices (Transformers, LoRA) to financial analysis. I'm also actively developing my skills in Computer Vision and C++.
 
-- 🔭 I’m currently working on **sentiment analysis** in financial forecasting, the **MLOps** methodology maturity model and the **AutoML** functional architecture.
-- 🌱 I’m currently learning NLP, RL and Agents.
-- 👯 I’m looking to collaborate on **research papers**.
+
+---
+
+### 🎓 Education
+
+| Institution | Program | Period |
+|-------------|---------|--------|
+| **ITMO (AI Talent Hub)** | Master's & PhD in Artificial Intelligence | 08.2025 - Present |
+| **MIPT** | Specialist in Machine & Deep Learning Methods | 08.2024 - 07.2025 |
+| **SPbU (GSOM)** | Bachelor's in Information Management | 08.2021 - 07.2025 |
+
+---
+
+### ⚙️ Tech Stack
+
+| Category | Primary | Auxiliary |
+|----------|---------|-----------------------|
+| **Languages** | Python | C++ • LaTeX • SQL |
+| **ML & DL** | PyTorch • cuML • XGBoost • CatBoost • Scikit-learn | Optuna • Ray Tune |
+| **LLM, NLP & Inference** | vLLM • llama.cpp • Transformers • LangChain • CrewAI | Ollama • BERTopic • LoRA • LangGraph |
+| **Finance** | VectorBT • PandasTA • cctx | Time-series • Backtesting |
+| **Data** | Pandas • Polars • PostgreSQL • ChromaDB • Qdrant | Neo4j |
+| **MLOps** | Docker Compose • Yandex Cloud • AgentOps | LangFuse |
+| **Web** | FastAPI • AIOgram | Dash • Streamlit |
+| **Data Visualization** | Seaborn • Plotly | Matplotlib • DataMapPlot |
+
+---
+
+### 🚀 Key Projects
+
+#### **AutoFin** - Automated Financial Asset Forecasting System (In Progress)
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/AutoFin)
+- Micro-library for developing tree-based forecasting models
+- Feature engineering pipeline (>23 indicators) and adaptive hyperparameter optimization
+- Achieved 56% accuracy and 5% excess returns on 5-minute BTC timeframe
+
+#### **FinABYSS** - Next-gen Comprehensive Financial Analytics System (In Progress)
+[![Project](https://img.shields.io/badge/Project-Link-green)](https://clck.ru/3NwYQ/)
+- News aggregation system achived SoTA financial clustering with 0.4 DBCV Index
+- MoE architecture for publication sentiment analysis with multimodal asset price forecasting
+- High-throughput parsing and processing of 1.5M+ financial news articles
+- Optimized pipeline using GPU and Agent reduces training time by 40%, embedding extraction by 9 times, and topic modeling by 5 times.
+
+#### **ITMO Manager** - Multi-agent RAG System for Applicants
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/itmo-manager)
+- System with specialized agents (orchestrator, analyst, advisor)
+- Optimized inference for devices with 6GB VRAM
+- Segmented memory and self-reflection mechanism
+
+---
+
+### 🏆 Achievements
+
+- **Financial Hackathon Winner** - XGBoost-based solution for price movement forecasting
+- **Alpha-Bank Case Championship Winner** - 1rd place for AI-agent based banking product proposal
+- **Habr Publications** - Popular articles on mathematical statistics in ML
+- **Open-source Contributions** - PRs, code reviews, issues for CrewAI, mem0ai, datamapplot
+
+---
 
 There is my last publications on Habr:
 <!-- BLOG-POST-LIST:START -->
@@ -16,6 +92,4 @@ There is my last publications on Habr:
 - [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_campaign=829336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/denisalpino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/http://linkedin.com/in/denis-tomin-a92454254/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/denisalpino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlescholar.svg' alt='googlescholar' height='40'>](https://habr.com/ru/users/denisalpino/)
+*README.md updated: August 2025*
