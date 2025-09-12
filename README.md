@@ -47,7 +47,7 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 | **ML & DL** | PyTorch • cuML • XGBoost • CatBoost • Scikit-learn | Optuna • Ray Tune |
 | **LLM, NLP & Inference** | vLLM • llama.cpp • Transformers • LangChain • CrewAI | Ollama • BERTopic • LoRA • LangGraph |
 | **Finance** | VectorBT • PandasTA • cctx | Time-series • Backtesting |
-| **Data** | Pandas • Polars • PostgreSQL • ChromaDB • Qdrant | Neo4j |
+| **Data** | Pandas • Polars • PostgreSQL • Qdrant | Neo4j • ChromaDB |
 | **MLOps** | Docker Compose • Yandex Cloud • AgentOps | LangFuse |
 | **Web** | FastAPI • AIOgram | Dash • Streamlit |
 | **Data Visualization** | Seaborn • Plotly | Matplotlib • DataMapPlot |
