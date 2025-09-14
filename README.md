@@ -56,18 +56,18 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 
 ### 🚀 Key Projects
 
+#### **FinABYSS** - Next-gen Comprehensive Financial Analytics System (In Progress)
+[![Project](https://img.shields.io/badge/Project-Link-green)](https://clck.ru/3NwYQJ/) [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/FinABYSS)
+- News aggregation system achived SoTA financial clustering with 0.4 DBCV Index
+- MoE architecture for publication sentiment analysis with multimodal asset price forecasting
+- High-throughput parsing and processing of 1.5M+ financial news articles
+- Optimized pipeline using GPU and Agent reduces training time by 40%, embedding extraction by 9 times, and topic modeling by 5 times.
+
 #### **AutoFin** - Automated Financial Asset Forecasting System (In Progress)
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/AutoFin)
 - Micro-library for developing tree-based forecasting models
 - Feature engineering pipeline (>23 indicators) and adaptive hyperparameter optimization
 - Achieved 56% accuracy and 5% excess returns on 5-minute BTC timeframe
-
-#### **FinABYSS** - Next-gen Comprehensive Financial Analytics System (In Progress)
-[![Project](https://img.shields.io/badge/Project-Link-green)](https://clck.ru/3NwYQJ/)
-- News aggregation system achived SoTA financial clustering with 0.4 DBCV Index
-- MoE architecture for publication sentiment analysis with multimodal asset price forecasting
-- High-throughput parsing and processing of 1.5M+ financial news articles
-- Optimized pipeline using GPU and Agent reduces training time by 40%, embedding extraction by 9 times, and topic modeling by 5 times.
 
 #### **ITMO Manager** - Multi-agent RAG System for Applicants
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/itmo-manager)
