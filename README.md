@@ -79,7 +79,7 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 
 ### 🏆 Achievements
 
-- 🥇 1st Place • **EdTech Hackathon Winner (Yandex)** - Career planning and development system based on `vLLM`, `LangGraph`, and `Neo4j`
+- 🥇 1st Place • **Hackathon Winner (Yandex)** - Career planning and development system based on `vLLM`, `LangGraph`, and `Neo4j`
 - 🥇 1st Place • **Financial Hackathon Winner (ALT3 Capital)** - `XGBoost`-based solution for price movement forecasting
 - 🥇 1st Place • **FinTech Case Championship Winner (Alfa-Bank x VK Messenger)** - AI-agent based banking product proposal
 - 📝 **Habr Publications** - Popular articles on mathematical statistics in ML
