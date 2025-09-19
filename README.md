@@ -97,7 +97,7 @@ There is my last publications on Habr:
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=denisalpino&show=reviews,prs_merged_percentage&hide=stars&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="GitHub Stats" style="width: 52%; min-width: 300px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisalpino&langs_count=16&hide_progress=false&theme=midnight-purple&bg_color=00000000&size_weight=0&count_weight=1&layout=compact" alt="Top Languages" style="width: 45%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisalpino&langs_count=6&hide_progress=false&theme=midnight-purple&bg_color=00000000&size_weight=0.1&count_weight=0.9&layout=compact" alt="Top Languages" style="width: 45%; min-width: 300px;" />
 </div>
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
