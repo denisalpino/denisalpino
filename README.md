@@ -85,12 +85,23 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 - 📝 **Habr Publications** - Popular articles on mathematical statistics in ML
 - 🤲 **Open-source Contributions** - PRs, code reviews, issues for `CrewAI`, `mem0ai`, `datamapplot`
 
----
-
 There is my last publications on Habr:
 <!-- BLOG-POST-LIST:START -->
 - [Простыми словами о методе максимального правдоподобия и информации Фишера](https://habr.com/ru/articles/830326/?utm_campaign=830326&utm_source=habrahabr&utm_medium=rss)
 - [Бутстрап и доверительные интервалы: от теории к практике на Python](https://habr.com/ru/articles/829336/?utm_campaign=829336&utm_source=habrahabr&utm_medium=rss)
 <!-- BLOG-POST-LIST:END -->
 
-*README.md updated: August 2025*
+---
+
+### 📊 GitHub Stats
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: flex-start; gap: 20px; flex-wrap: nowrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=denisalpino&show=reviews,prs_merged_percentage&hide=stars&show_icons=true&theme=midnight-purple&bg_color=00000000" alt="GitHub Stats" style="width: 52%; min-width: 300px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denisalpino&langs_count=16&hide_progress=false&theme=midnight-purple&bg_color=00000000&size_weight=0&count_weight=1&layout=compact" alt="Top Languages" style="width: 45%; min-width: 300px;" />
+</div>
+
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
+---
+
+Updated: August 2025*
