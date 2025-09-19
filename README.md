@@ -104,4 +104,4 @@ There is my last publications on Habr:
 
 ---
 
-Updated: August 2025*
+_Updated: August 2025*_
