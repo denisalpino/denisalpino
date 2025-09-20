@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi there, I'm Denis Tomin 
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=300&height=20&lines=Hi+there%2C+I'm+Denis+Tomin" alt="Typing SVG" /></a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
   </h1>
   <p>AI Researcher | Quantitative Researcher | NLP & LLM Engineer</p>
