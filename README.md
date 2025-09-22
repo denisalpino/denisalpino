@@ -3,7 +3,7 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=3000&pause=5000&color=F7F7F7&center=true&vCenter=true&width=300&height=20&lines=Hi+there%2C+I'm+Denis+Tomin" alt="Typing SVG" /></a>
     <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/>
   </h1>
-  <p>AI Researcher | Quantitative Researcher | NLP & LLM Engineer</p>
+  <p>AI Researcher • Quantitative Researcher • NLP & LLM Engineer</p>
   
   <p>
     <a href="mailto:denis.tomin.alpino@gmail.com">
@@ -43,14 +43,14 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 
 | Category | Primary | Auxiliary |
 |----------|---------|-----------------------|
-| **Languages** | Python | C++ • LaTeX • SQL |
-| **ML & DL** | PyTorch • cuML • XGBoost • CatBoost • Scikit-learn | Optuna • Ray Tune |
-| **LLM, NLP & Inference** | vLLM • llama.cpp • Transformers • LangChain • CrewAI | Ollama • BERTopic • LoRA • LangGraph |
-| **Finance** | VectorBT • PandasTA • cctx | Time-series • Backtesting |
-| **Data** | Pandas • Polars • PostgreSQL • Qdrant | Neo4j • ChromaDB |
-| **MLOps** | Docker Compose • Yandex Cloud • AgentOps | LangFuse |
-| **Web** | FastAPI • AIOgram | Dash • Streamlit |
-| **Data Visualization** | Seaborn • Plotly | Matplotlib • DataMapPlot |
+| 🐍 **Languages** | Python | C++ • LaTeX • SQL |
+| 🤖 **ML & DL** | PyTorch • cuML • XGBoost • CatBoost • Scikit-learn | Optuna • Ray Tune |
+| 🔡 **LLM, NLP & Inference** | vLLM • llama.cpp • Transformers • LangChain • CrewAI • LoRA | Ollama • BERTopic • LangGraph |
+| 💵 **Finance** | VectorBT • PandasTA • cctx | Time-series • Backtesting |
+| 📂 **Data** | Pandas • Polars • Pydantic • PostgreSQL • Qdrant | Neo4j • ChromaDB |
+| ⚒️ **Infra** | Pytest • Docker • Docker Compose • GitHub Actions • Linux • Yandex Cloud • AgentOps • Sphinx | LangFuse • UV • Ruff |
+| 🕸 **Web** | FastAPI • AIOgram | Dash • Streamlit |
+| 📊 **Data Visualization** | Seaborn • Plotly • DataMapPlot | Matplotlib |
 
 ---
 
