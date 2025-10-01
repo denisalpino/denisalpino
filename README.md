@@ -67,7 +67,7 @@ Machine/Deep learning specialist focused on financial applications and NLP. Pass
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/AutoFin)
 - Micro-library for developing tree-based forecasting models
 - Feature engineering pipeline (>23 indicators) and adaptive hyperparameter optimization
-- Achieved 56% accuracy and 5% excess returns on 5-minute BTC timeframe
+- The base system achieved a Sharpe ratio of 6.5 to 9.1 with a win rate of 52% to 63%, adaptability to market conditions and returns in bearish and flat markets from 18% to 21% on target cryptocurrencies on a 15-minute timeframe.
 
 #### **ITMO Manager** - Multi-agent RAG System for Applicants
 [![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/denisalpino/itmo-manager)
@@ -104,4 +104,4 @@ There is my last publications on Habr:
 
 ---
 
-_Updated: August 2025*_
+_Updated: October 2025*_
